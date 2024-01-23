@@ -1,0 +1,15 @@
+E:\test\WebApplication1\Data\bin\Debug\net6.0\Data.deps.json
+E:\test\WebApplication1\Data\bin\Debug\net6.0\Data.dll
+E:\test\WebApplication1\Data\bin\Debug\net6.0\Data.pdb
+E:\test\WebApplication1\Data\bin\Debug\net6.0\Model.dll
+E:\test\WebApplication1\Data\bin\Debug\net6.0\Model.pdb
+E:\test\WebApplication1\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+E:\test\WebApplication1\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\test\WebApplication1\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+E:\test\WebApplication1\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+E:\test\WebApplication1\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+E:\test\WebApplication1\Data\obj\Debug\net6.0\Data.csproj.CopyComplete
+E:\test\WebApplication1\Data\obj\Debug\net6.0\Data.dll
+E:\test\WebApplication1\Data\obj\Debug\net6.0\refint\Data.dll
+E:\test\WebApplication1\Data\obj\Debug\net6.0\Data.pdb
+E:\test\WebApplication1\Data\obj\Debug\net6.0\ref\Data.dll

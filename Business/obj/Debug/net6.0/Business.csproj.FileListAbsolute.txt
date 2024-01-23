@@ -1,0 +1,17 @@
+E:\test\WebApplication1\Business\bin\Debug\net6.0\Business.deps.json
+E:\test\WebApplication1\Business\bin\Debug\net6.0\Business.dll
+E:\test\WebApplication1\Business\bin\Debug\net6.0\Business.pdb
+E:\test\WebApplication1\Business\bin\Debug\net6.0\Data.dll
+E:\test\WebApplication1\Business\bin\Debug\net6.0\Model.dll
+E:\test\WebApplication1\Business\bin\Debug\net6.0\Data.pdb
+E:\test\WebApplication1\Business\bin\Debug\net6.0\Model.pdb
+E:\test\WebApplication1\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+E:\test\WebApplication1\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+E:\test\WebApplication1\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+E:\test\WebApplication1\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+E:\test\WebApplication1\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+E:\test\WebApplication1\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+E:\test\WebApplication1\Business\obj\Debug\net6.0\Business.dll
+E:\test\WebApplication1\Business\obj\Debug\net6.0\refint\Business.dll
+E:\test\WebApplication1\Business\obj\Debug\net6.0\Business.pdb
+E:\test\WebApplication1\Business\obj\Debug\net6.0\ref\Business.dll
